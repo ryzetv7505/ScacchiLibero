@@ -1,6 +1,5 @@
 # ScacchiLibero — scacchi gratis, senza abbonamenti né pubblicità
-Licenza AGPL-3.0 (aggiungi il testo ufficiale in `LICENSE`: https://www.gnu.org/licenses/agpl-3.0.txt)
-
+Licenza AGPL-3.0 
 ## Avvio (serve solo Node.js ≥ 22.13)
 ```bash
 node avvia.mjs            # sviluppo: http://localhost:5173
