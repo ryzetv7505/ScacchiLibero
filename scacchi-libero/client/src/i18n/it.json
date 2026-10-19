@@ -1,0 +1,3 @@
+{ "app":"ScacchiLibero","tagline":"Scacchi gratis. Per sempre. Senza pubblicità.","play":"Gioca contro i bot","review":"Revisione partite","lessons":"Lezioni","online":"Gioca online",
+  "guest":"Gioca come ospite","login":"Accedi","register":"Registrati","correct":"Corretto!","wrong":"Non è questa, riprova.",
+  "cls":{"eccellente":"Eccellente","buona":"Buona","imprecisione":"Imprecisione","errore":"Errore","errore grave":"Errore grave"} }

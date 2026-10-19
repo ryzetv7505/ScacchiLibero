@@ -1,0 +1,4 @@
+{ "name":"scacchi-client","version":"0.1.0","license":"AGPL-3.0-only","type":"module",
+  "scripts":{"dev":"vite","build":"tsc && vite build","copy-engine":"cp node_modules/stockfish/src/stockfish-nnue-16-single.js node_modules/stockfish/src/stockfish-nnue-16-single.wasm public/stockfish/ 2>/dev/null || echo 'Controlla i nomi file nel pacchetto stockfish'"},
+  "dependencies":{"react":"^18.3.1","react-dom":"^18.3.1","react-router-dom":"^6.25.0","chess.js":"^1.0.0-beta.8","react-chessboard":"^4.6.0","stockfish":"^16.0.0"},
+  "devDependencies":{"typescript":"^5.5.0","vite":"^5.3.0","@vitejs/plugin-react":"^4.3.1","@types/react":"^18.3.3","@types/react-dom":"^18.3.0"} }

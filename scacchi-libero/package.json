@@ -1,0 +1,2 @@
+{ "name": "scacchi-libero", "private": true, "license": "AGPL-3.0-only", "type": "module", "engines": { "node": ">=22.13" },
+  "scripts": { "start": "node avvia.mjs", "start:prod": "node avvia.mjs --prod" } }
